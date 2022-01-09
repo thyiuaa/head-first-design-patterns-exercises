@@ -1,0 +1,5 @@
+package ch4.Pizzeria2.Ingredients.Clams;
+
+public class FreshClams implements Clams {
+    
+}
